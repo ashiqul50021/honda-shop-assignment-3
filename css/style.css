@@ -18,9 +18,7 @@ body{
     filter: grayscale(100%);
 }
 
-.gray-scale:hover{
-    filter: grayscale(0);
-}
+
 
 .feature-img{
     width: 288px;
